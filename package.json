@@ -1,0 +1,20 @@
+{
+  "name": "zadanie_10.2",
+  "version": "1.0.0",
+  "description": "This site is published at https://solitary82.github.io/kodilla_zadanie_10.2/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Solitary82/kodilla_zadanie_10.2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Solitary82/kodilla_zadanie_10.2/issues"
+  },
+  "homepage": "https://github.com/Solitary82/kodilla_zadanie_10.2#readme"
+}
